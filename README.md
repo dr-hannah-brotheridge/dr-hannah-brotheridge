@@ -5,22 +5,22 @@ Having an MBChB background and a few years of experience as a doctor; I now desi
 I graduated from the University of Auckland as an undergraduate and have worked for Te Whatu Ora Waitaha as a house officer since 2024.
 
 ## Product Engineering & Deployment
-**Full-Stack PWA Architecture:** Designing and deploying Progressive Web Apps from concept to production.
-**DevOps & Deployment:** CI/CD workflows using GitHub and Vercel for rapid iteration and hosting.
-**Database Management:** Architecting relational data models in Supabase (PostgreSQL), including Row Level Security (RLS) implementation for multi-user security.
+- **Full-Stack PWA Architecture:** Designing and deploying Progressive Web Apps from concept to production.
+- **DevOps & Deployment:** CI/CD workflows using GitHub and Vercel for rapid iteration and hosting.
+- **Database Management:** Architecting relational data models in Supabase (PostgreSQL), including Row Level Security (RLS) implementation for multi-user security.
 
 ## No-Code to Pro-Code Transition 
 Proven experience scaling products from rapid no-code prototyping (Glide/FlutterFlow) to custom-coded Node.js applications.
 
 ## AI & LLM Orchestration
-**Prompt Engineering & Safety:** Development of complex, state-based "Clinical Risk Engines" using multi-state prompt architecture to enforce strict guardrails, diagnostic locking, and safety-critical escalation paths.
-**LLM Integration:** Orchestrating API integrations with Anthropic (Claude) to create persistent, memory-augmented chatbots that maintain longitudinal health context.
-**Clinical Safety Logic:** Implementing "Anti-Over-Escalation" and "Source-of-Truth" protocols to ensure LLM behavior remains deterministic and safe in high-stakes environments.
+- **Prompt Engineering & Safety:** Development of complex, state-based "Clinical Risk Engines" using multi-state prompt architecture to enforce strict guardrails, diagnostic locking, and safety-critical escalation paths.
+- **LLM Integration:** Orchestrating API integrations with Anthropic (Claude) to create persistent, memory-augmented chatbots that maintain longitudinal health context.
+- **Clinical Safety Logic:** Implementing "Anti-Over-Escalation" and "Source-of-Truth" protocols to ensure LLM behavior remains deterministic and safe in high-stakes environments.
 
 ## Domain Expertise
 
-**Clinical AI Architecture:** Bridging the gap between clinical safety protocols and technical system design.
-**Health Tech Product Design:** Translating complex medical workflows (triage, history taking, medication management) into intuitive, patient-facing UX.
+- **Clinical AI Architecture:** Bridging the gap between clinical safety protocols and technical system design.
+- **Health Tech Product Design:** Translating complex medical workflows (triage, history taking, medication management) into intuitive, patient-facing UX.
 
 ## Active Projects
 - **SignalHealth PWA:** A highly bounded, deterministic multi-state prompt engine for user health patterns and tracking and efficient doctor check-ups.
