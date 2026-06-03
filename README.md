@@ -16,7 +16,7 @@ I graduated from the University of Auckland as an undergraduate and have worked 
 - **Database Management:** Architecting relational data models in Supabase (PostgreSQL), including Row Level Security (RLS) implementation for multi-user security.
 
 ## No-Code to Pro-Code Transition 
-Proven experience scaling products from rapid no-code prototyping (Glide/FlutterFlow) to custom-coded Node.js applications.
+Proven experience scaling products from rapid no-code prototyping (Glide/FlutterFlow) to custom-coded Node.js applications using LLM assistance.
 
 ## AI & LLM Orchestration
 - **Prompt Engineering & Safety:** Development of complex, state-based "Clinical Risk Engines" using multi-state prompt architecture to enforce strict guardrails, diagnostic locking, and safety-critical escalation paths.
