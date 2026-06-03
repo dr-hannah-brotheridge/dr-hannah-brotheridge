@@ -4,8 +4,11 @@
 Having an MBChB background and a few years of experience as a doctor; I now design, architect, and evaluate AI systems and applications for healthcare.
 I graduated from the University of Auckland as an undergraduate and have worked for Te Whatu Ora Waitaha as a house officer since 2024.
 
-**https://med-list.flutterflow.app/**
-**https://signalhealth.dev/**
+## MedList
+- **https://med-list.flutterflow.app/**
+
+## SignalHealth
+- **https://signalhealth.dev/**
 
 ## Product Engineering & Deployment
 - **Full-Stack PWA Architecture:** Designing and deploying Progressive Web Apps from concept to production.
