@@ -12,7 +12,7 @@ I graduated from the University of Auckland as an undergraduate and have worked 
 
 ## Product Engineering & Deployment
 - **Full-Stack PWA Architecture:** Designing and deploying Progressive Web Apps from concept to production.
-- **DevOps & Deployment:** CI/CD workflows using GitHub and Vercel for rapid iteration and hosting.
+- **DevOps & Deployment:** Continuous Integration and Continuous Delivery/Deployment (CI/CD) workflows using GitHub and Vercel for rapid iteration and hosting.
 - **Database Management:** Architecting relational data models in Supabase (PostgreSQL), including Row Level Security (RLS) implementation for multi-user security.
 
 ## No-Code to Pro-Code Transition 
