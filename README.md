@@ -22,6 +22,7 @@ Proven experience scaling products from rapid no-code prototyping (Glide/Flutter
 - **Prompt Engineering & Safety:** Development of complex, state-based "Clinical Risk Engines" using multi-state prompt architecture to enforce strict guardrails, diagnostic locking, and safety-critical escalation paths.
 - **LLM Integration:** Orchestrating API integrations with Anthropic (Claude) to create persistent, memory-augmented chatbots that maintain longitudinal health context.
 - **Clinical Safety Logic:** Implementing "Anti-Over-Escalation" and "Source-of-Truth" protocols to ensure LLM behavior remains deterministic and safe in high-stakes environments.
+- **LLM Cost Optimisation Techniques** Model cascading/Right-sizing for tasks, Context window management, Frequency Throttling/Batching and Prompt Caching. 
 
 ## Domain Expertise
 
