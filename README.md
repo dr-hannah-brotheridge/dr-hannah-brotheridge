@@ -1,5 +1,5 @@
 # Hi, I'm Dr. Hannah Brotheridge 👋
-### Clinical Product Founder | Clinical AI Architect 
+### Clinical Product Creator
 
 Having an MBChB background and a few years of experience as a doctor; I now design, architect, and evaluate AI systems and applications for healthcare.
 I graduated from the University of Auckland as an undergraduate and have worked for Te Whatu Ora Waitaha as a house officer since 2024.
@@ -16,7 +16,7 @@ I graduated from the University of Auckland as an undergraduate and have worked 
 - **Database Management:** Architecting relational data models in Supabase (PostgreSQL), including Row Level Security (RLS) implementation for multi-user security.
 
 ## No-Code to Pro-Code Transition 
-Proven experience scaling products from rapid no-code prototyping (Glide/FlutterFlow) to custom-coded Node.js applications using LLM assistance.
+Proven experience scaling products from rapid no-code prototyping (Glide/FlutterFlow) to custom-coded Node.js applications using LLM assistance (Claude Code and Cline).
 
 ## AI & LLM Orchestration
 - **Prompt Engineering & Safety:** Development of complex, state-based "Clinical Risk Engines" using multi-state prompt architecture to enforce strict guardrails, diagnostic locking, and safety-critical escalation and/or de-escalation paths.
