@@ -98,38 +98,6 @@ Proven experience scaling products from rapid no-code prototyping (Glide/Flutter
 
 
 
-# SignalHealth PWA
-**https://signalhealth.dev/**
-
-## 🚀 Tech Stack
-
-- **Runtime:** Node.js
-- **Database & Auth:** Supabase (PostgreSQL with RLS)
-- **Intelligence:** Anthropic API (Claude)
-- **Deployment:** Vercel
-
-## 🛠 Engineering Highlights
-
-- **Clinical Control Engine:** Architected a deterministic logic layer utilizing 18+ pages of safety-critical prompts to manage complex health triage.
-- **Longitudinal Memory:** Leveraged Supabase to maintain persistent, structured health profiles across sessions, transforming raw chat data into actionable longitudinal health narratives.
-- **Security & Compliance:** Implemented a robust, RLS-protected authentication flow that enforces strict medical-risk guardrails during state-based conversations.
-
-## 📱Key Features
-
-### 🧠 The Chat Engine
-- **Pre-Appointment Mode:** Syncs with upcoming appointments to help users articulate concerns, ensuring efficient doctor consultations.
-- **Day-to-Day Mode:** Builds the user's health profile dynamically.
-- **Safety Guardrails:** Real-time risk assessment; the engine triggers immediate alerts for emergency care or professional intervention when specific clinical criteria are met.
-
-### 👤 Profile Hub
-- **Health Story:** A living, comprehensive narrative that evolves with every conversation, categorizing symptoms and resolving problems. Downloadable as a PDF.
-- **Gamified Onboarding:** A progress bar encourages data completion, improving the accuracy of future health insights.
-- **Clinical Integration:** Visualizes standardized health questionnaires (AUDIT, Epworth, STOPBANG, PHQ9, GAD7, EPDS), pre-populating them for medical appointments to save valuable clinic time.
-
-### 📋 GP Summary & Sharing
-- **Real-Time Generation:** A summary that updates instantly based on profile changes and conversation history.
-- **Clinical Readiness:** Provides condensed, high-value data for physicians.
-- **Easy Export:** Built-in sharing capabilities (Email, Clipboard, Social) to ensure the user’s medical narrative is always at hand.
 
 ### ⚙️ Settings & Retention
 - **Smart Notifications:** Customizable check-in frequency. Includes an automated "3-day symptom follow-up" feature to track patient progress and improve retention.
