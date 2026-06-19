@@ -91,14 +91,3 @@ Proven experience scaling products from rapid no-code prototyping (Glide/Flutter
 - **Smart Notifications:** Customizable check-in frequency. Includes an automated "3-day symptom follow-up" feature to track patient progress and improve retention.
 - **User Control:** Full suite of account management tools, including TOS, Privacy Policy, and medical disclaimers.
 
-
-
-
-
-
-
-
-
-### ⚙️ Settings & Retention
-- **Smart Notifications:** Customizable check-in frequency. Includes an automated "3-day symptom follow-up" feature to track patient progress and improve retention.
-- **User Control:** Full suite of account management tools, including TOS, Privacy Policy, and medical disclaimers.
