@@ -4,8 +4,8 @@
 Having an MBChB background and a few years of experience as a doctor; I now design, architect, and evaluate AI systems and applications for healthcare.
 I graduated from the University of Auckland as an undergraduate and have worked for Te Whatu Ora Waitaha as a house officer since 2024.
 
-## MedList
-- **https://med-list.flutterflow.app/**
+## ScriptPal NZ
+- **https://scriptpal.co.nz/**
 
 ## SignalHealth
 - **https://signalhealth.dev/**
@@ -31,7 +31,7 @@ Proven experience scaling products from rapid no-code prototyping (Glide/Flutter
 
 ## Active Projects
 - **SignalHealth PWA:** A highly bounded, deterministic multi-state prompt engine for user health patterns and tracking and efficient doctor check-ups.
-- **MedList PWA:** A light, user-centric progressive web app for patient-friendly medication compliance, information and collation.
+- **ScriptPal NZ PWA:** A light, user-centric progressive web app for patient-friendly medication compliance, information and collation.
 
 ## My Aims
 - **Patient Autonomy and Understanding** I aim to improve the understanding of an individual's own health by providing access to patient-centred language,
