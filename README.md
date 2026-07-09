@@ -16,7 +16,7 @@ I graduated from the University of Auckland as an undergraduate and have worked 
 - **https://signalhealth.dev/**
 
 ## HannahBrotheridgeArt
-- **My Visual Sandbox:** [Art & Design Portfolio](https://hannahbrotheridgeart.vercel.app) (Deployed to Vercel)
+- **My Visual Portfolio:** [Art & Design Portfolio](https://hannahbrotheridgeart.vercel.app) (Deployed to Vercel)
 - I am a NZ photographer and artist, that has done commission drawings, sold and exhibited at art exhibitions, published a photography book and created a portfolio of work for purchase.
 
 ## Product Engineering & Deployment
