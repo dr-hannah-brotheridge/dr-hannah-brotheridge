@@ -4,6 +4,11 @@
 Having an MBChB background and a few years of experience as a doctor; I now design, architect, and evaluate AI systems and applications for healthcare.
 I graduated from the University of Auckland as an undergraduate and have worked for Te Whatu Ora Waitaha as a house officer since 2024.
 
+### 🛠️ The Doctor-Builder Stack
+- **Languages & Frameworks:** Node.js, JavaScript, HTML5, CSS3, Tailwind CSS.
+- **Database & DevOps:** Supabase (PostgreSQL), Row-Level Security (RLS), Git/GitHub CI/CD, Vercel.
+- **AI Orchestration:** Claude/Cline, Anthropic API, Custom RAG architectures, Multi-state machine routing, Prompt Engineering & Optimization.
+
 ## ScriptPal NZ
 - **https://scriptpal.co.nz/**
 
