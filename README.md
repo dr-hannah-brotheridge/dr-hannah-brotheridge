@@ -15,6 +15,10 @@ I graduated from the University of Auckland as an undergraduate and have worked 
 ## SignalHealth
 - **https://signalhealth.dev/**
 
+## HannahBrotheridgeArt
+- **My Visual Sandbox:** [Art & Design Portfolio](https://hannahbrotheridgeart.vercel.app) (Deployed to Vercel)
+- I am a NZ photographer and artist, that has done commission drawings, sold and exhibited at art exhibitions, published a photography book and created a portfolio of work for purchase.
+
 ## Product Engineering & Deployment
 - **Full-Stack PWA Architecture:** Designing and deploying Progressive Web Apps from concept to production.
 - **DevOps & Deployment:** Continuous Integration and Continuous Delivery/Deployment (CI/CD) workflows using GitHub and Vercel for rapid iteration and hosting.
